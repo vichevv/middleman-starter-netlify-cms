@@ -6,4 +6,4 @@ nav_items:
   - label: News
     path: /news
   - label: Video
-    path: video
+    path: /video
